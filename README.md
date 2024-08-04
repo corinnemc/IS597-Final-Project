@@ -1,5 +1,5 @@
 # IS597-Final-Project
-Created by Corinne McCumber.
+Created by Corinne McCumber. Working title of the project: “Spam or Ham?”: Using Supervised Machine Learning for SMS Spam Classification.
 Final project for IS 597 MLC: Machine Learning Pipelines Using Cloud-Based Platforms, Summer 2024.
 
 This repository contains:
